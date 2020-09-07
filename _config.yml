@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: KOODAAJA Blog
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -14,6 +14,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 # Flags below are optional
 #
+
+# Määritellään sivustolla käytettävä teema, tuetut teemat löytyvät 
+# sivulta https://pages.github.com/themes/
+theme: jekyll-theme-slate
 
 # Includes an icon in the footer for each username you enter
 footer-links:
