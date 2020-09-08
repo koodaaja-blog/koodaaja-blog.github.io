@@ -30,7 +30,7 @@ Hyväksy tehtävä klikkaamalla *Accept this assignment* -nappia ja odota, että
 
 ## Tehtävän kopioiminen omalle koneelle
 
-Ennen tehtävän suorittamista se kopioidaan omalle koneelle. Tämä tapahtuu klikkaamalla projektisivulla vihreää Code-nappia ja valitsemalla avautuvasta ikkunasta osoitteen kopioiminen työpöydälle kuvakkeen.
+Ennen tehtävän suorittamista se kopioidaan omalle koneelle. Tämä tapahtuu klikkaamalla projektisivulla vihreää Code-nappia ja klikkaamalla avautuvasta ikkunasta osoitteen kopioiminen työpöydälle-kuvaketta.
 
 Valitse tämän jälkeen GitHub Desktop -sovelluksessa Clone a repository from the Internet -kohta, avaa URL-välilehti ja liitä kopioimasi osoite Repository URL -kenttään. Varmista, että Local path -kentässä on oikea kansio valittuna. 
 
