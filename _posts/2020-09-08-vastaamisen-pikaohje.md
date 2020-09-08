@@ -19,13 +19,13 @@ title:  "Tehtävään vastaamisen pikaohje"
 
     Avaa tehtäväkansio Visual Studio Codessa, etsi tehtava-kansiosta tehtävätiedosto, tee tarvittavat muutokset ja tallenna. 
 
-    ![Tehtävän kloonaaminen](/images/vastaamisen-pikaohje-open-and-edit.gif)
+    ![Tehtävän vastaaminen](/images/vastaamisen-pikaohje-open-and-edit.gif)
 
 4. Koodin suorittaminen
 
     Suorita koodi avaamalla HTML-sivu selaimessa tai suorittamalla Javascript-tiedosto komennolla **npm start**.
 
-    ![Tehtävän kloonaaminen](/images/vastaamisen-pikaohje-execute.gif)
+    ![Koodin suoritus](/images/vastaamisen-pikaohje-execute.gif)
 
 5. Koodin testaaminen 
 
@@ -37,10 +37,10 @@ title:  "Tehtävään vastaamisen pikaohje"
 
     Vie tehtävän vastaus paikalliseen repoon commit -toiminnolla.
 
-    ![Koodin testaaminen](/images/vastaamisen-pikaohje-commit.gif)
+    ![Vastauksen vieminen repoon](/images/vastaamisen-pikaohje-commit.gif)
 
 7. Vastauksen palautus
 
     Palauta tekemäsi vastaus GitHubin repoon push -toiminolla. 
 
-    ![Koodin testaaminen](/images/vastaamisen-pikaohje-push.gif)
+    ![Vastauksen palautus GitHubiin](/images/vastaamisen-pikaohje-push.gif)
